@@ -21,6 +21,9 @@ public class JavaApplication9 {
         System.out.print("Hello");
         //Teasrsaklsa
         ///fdfds
+        ///
+        System.out.print("Hello");
+
     }
-    
+
 }
