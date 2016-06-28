@@ -18,6 +18,7 @@ public class JavaApplication9 {
         // TODO code application logic here
         ///
         ///
+        System.out.print("Hello");
     }
     
 }
